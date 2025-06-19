@@ -1,6 +1,6 @@
 # 🤖 HandSignAI
 
-Reconhecimento de sinais do alfabeto ASL (Linguagem de Sinais Americana) utilizando Visão Computacional e Machine Learning.
+Reconhecimento de sinais do alfabeto ASL  utilizando Visão Computacional e Machine Learning.
 
 ---
 
